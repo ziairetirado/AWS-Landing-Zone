@@ -1,7 +1,7 @@
-variable "account_name" {
+variable "cloudtrail_bucket_id" {
   type = string
 }
 
-variable "management_account_id" {
+variable "cloudtrail_bucket_arn" {
   type = string
 }
