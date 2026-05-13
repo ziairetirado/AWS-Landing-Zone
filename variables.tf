@@ -1,4 +1,7 @@
-variable "security_account_id" {
-  description = "AWS Account ID of the Security/GuardDuty delegated admin account"
-  type        = string
+variable "account_name" {
+  type = string
+}
+
+variable "management_account_id" {
+  type = string
 }
