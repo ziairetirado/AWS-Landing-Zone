@@ -1,2 +1,2 @@
 # AWS-Landing-Zone
-Production-grade AWS Landing Zone built with Terraform implementing multi-account architecture, centralized logging, GuardDuty threat detection, and cross-account IAM roles. Demonstrates cloud security engineering, Infrastructure-as-Code best practices, and scalable AWS governance aligned with enterprise security standards.
+Production-grade AWS Landing Zone built with Terraform implementing multi-account governance, centralized logging, GuardDuty threat detection, and cross-account security access. This project demonstrates real-world cloud security architecture, Infrastructure-as-Code best practices, and scalable AWS organization design aligned with enterprise security standards.
